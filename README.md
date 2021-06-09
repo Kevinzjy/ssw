@@ -19,6 +19,8 @@ To install the SSW python package, use pip:
 
 ```
 $ pip install ssw
+# Or install the customized version
+$ pip install -e "git+https://github.com/Kevinzjy/ssw.git#egg=ssw"
 ```
 
 ## Example Usage
